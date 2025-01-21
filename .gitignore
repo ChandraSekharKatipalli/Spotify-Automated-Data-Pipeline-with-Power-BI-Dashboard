@@ -1,0 +1,8 @@
+# ignore pycache
+_pycache_/
+
+# ignore airflow-env
+airflow-env/
+
+# ignore config
+config.py
